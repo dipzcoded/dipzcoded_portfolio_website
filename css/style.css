@@ -5,8 +5,8 @@
 }
 
 :root {
-  --first-color: #4070f4;
-  --second-color: #0e2431;
+  --first-color: #40f45e;
+  --second-color: #0e311d;
 }
 
 :root {
@@ -281,7 +281,7 @@ a.button {
 }
 
 .about__img img {
-  width: 200px;
+  width: 250px;
   border-radius: 0.5rem;
   -webkit-border-radius: 0.5rem;
   -moz-border-radius: 0.5rem;
@@ -516,7 +516,7 @@ a.button {
     align-self: flex-end;
   }
   .home__title {
-    font-size: 3.8rem;
+    font-size: 3.5rem;
     margin-top: 6rem;
   }
 
