@@ -347,14 +347,14 @@ a.button {
 }
 
 .skills__css {
-  width: 89%;
+  width: 85%;
 }
 
 .skills__javascript {
   width: 92%;
 }
 .skills__typescript {
-  width: 80%;
+  width: 60%;
 }
 .skills__reactjs {
   width: 98%;
@@ -364,7 +364,7 @@ a.button {
   width: 65%;
 }
 .skills__nodejs {
-  width: 85%;
+  width: 80%;
 }
 
 .skills__ui {
@@ -414,6 +414,9 @@ a.button {
   -ms-transition: 1s;
   -o-transition: 1s;
   cursor: pointer;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .work__img img:hover {
@@ -542,6 +545,10 @@ a.button {
     text-align: initial;
   }
 
+  .about__text {
+    text-align: justify;
+  }
+
   .skills__container {
     align-items: center;
     text-align: initial;
@@ -579,6 +586,7 @@ a.button {
 @media screen and (max-width: 380px) {
   .home__img {
     width: 70%;
+    bottom: 80px;
   }
 
   a.button {
