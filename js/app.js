@@ -53,7 +53,7 @@ sr.reveal(".skills__data", { interval: 200 });
 sr.reveal(".skills__img", { delay: 400 });
 
 /*SCROLL WORK*/
-sr.reveal(".work__img", {});
+// sr.reveal(".work__img", {});
 
 /*SCROLL CONTACT*/
 sr.reveal(".contact__input", { interval: 200 });
