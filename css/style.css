@@ -347,28 +347,25 @@ a.button {
 }
 
 .skills__css {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__javascript {
-  width: 88%;
+  width: 90%;
 }
 .skills__typescript {
-  width: 60%;
+  width: 50%;
 }
 .skills__reactjs {
   width: 98%;
 }
 
-.skills__vuejs {
-  width: 65%;
-}
 .skills__nodejs {
   width: 85%;
 }
 
 .skills__ui {
-  width: 60%;
+  width: 50%;
 }
 
 .skills__img {
